@@ -2,6 +2,6 @@
 An application for keeping notes.
 
 Deployed site can be found here:
-https://thebobbyllama.github.io/portfolio/
+https://dry-reef-87334.herokuapp.com/
 
 ![Project Screenshot](/snapshot.png?raw=true)
